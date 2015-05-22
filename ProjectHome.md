@@ -1,0 +1,1 @@
+The product provide interface what Plone object choose CC license.
